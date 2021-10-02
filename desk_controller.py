@@ -17,6 +17,7 @@ def raise_desk():
     )
 
 
+sleep(60)
 # raise_desk()
 
 while True:
